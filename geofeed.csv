@@ -1,8 +1,6 @@
-# Geofeeds File for Qubitbytes LTD AS215303
-#
-# Please report issues to <noc@qubitbytes.net>
-#
-45.143.6.0/24,GB,GB-EN,London,
-2a12:bec4:10f1::/48,GB,GB-EN,London,
-2a12:bec4:10f2::/48,GB,GB-EN,London,
-2a12:bec4:10f3::/48,GB,GB-EN,London,
+#RFC8805-For-AS215303
+#prefix,country_code,region_code,city,postal
+45.143.6.0/24,GB,GB-ENG,London,
+2a12:bec4:10f1::/48,GB,GB-ENG,London,
+2a12:bec4:10f2::/48,GB,GB-ENG,London,
+2a12:bec4:10f3::/48,GB,GB-ENG,London,
